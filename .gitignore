@@ -1,0 +1,32 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+api_key.py
+
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Environments
+.env
+.venv/
+venv/
+
+# Models and data
+*.h5
+*.pkl
+*.json
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+chat_model.h5
